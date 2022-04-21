@@ -3,13 +3,14 @@
 // imprimir no console conforme instruções:
 
 // a) números de 1 a 50  
-// b) console.log("Pare no 25")
-// c) quando chegar no número 10 pule a instrução|
 
   let number = 0;
   for(let number = 1; number <=50; number++) {
     console.log(`${number}`)
 }
+
+// b) console.log("Pare no 25")
+// c) quando chegar no número 10 pule a instrução|
 
   while(number < 50) {
 
